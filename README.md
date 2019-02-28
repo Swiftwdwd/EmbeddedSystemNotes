@@ -1,1 +1,2 @@
 # EmbeddedSystemNotes
+good good study
